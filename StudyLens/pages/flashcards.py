@@ -6,7 +6,7 @@ from openai import OpenAI  # NEW
 
 # Initialize OpenAI client
 client = OpenAI(
-    api_key="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"
+    api_key="add-your-own-api-key"
 )
 
 def extract_text_from_pdf(file):
