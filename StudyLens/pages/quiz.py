@@ -5,7 +5,7 @@ import re
 
 # Set the OpenAI API key (replace with your actual key for testing)
 # For production, use environment variables or Streamlit secrets
-OPENAI_API_KEY = "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"  # Replace with your valid key or comment out to use env variable
+OPENAI_API_KEY = "add-your-own-api-key"  # Replace with your valid key or comment out to use env variable
 
 # Try to fetch from environment variables or Streamlit secrets
 if not OPENAI_API_KEY:
