@@ -12,16 +12,16 @@
 
 ## Project Structure
 
-StudyLens/
-│
-├── main.py # Entry point with navigation and page loading
-├── menu.py # Alternate file for rendering navigation
-├── pages/
-│ ├── upload.py # Handles file uploads and text extraction
-│ ├── summary.py # Contains logic for summarization
-│ ├── mindmap.py # Generates and renders mind maps
-│ ├── flashcards.py # Builds flashcards from text
-│ └── quiz.py # Constructs quizzes from extracted content
+StudyLens/ <br>
+│<br>
+├── main.py # Entry point with navigation and page loading <br>
+├── menu.py # Alternate file for rendering navigation<br>
+├── pages/<br>
+│ ├── upload.py # Handles file uploads and text extraction<br>
+│ ├── summary.py # Contains logic for summarization<br>
+│ ├── mindmap.py # Generates and renders mind maps<br>
+│ ├── flashcards.py # Builds flashcards from text<br>
+│ └── quiz.py # Constructs quizzes from extracted content<br>
 
 ## Technologies Used
 
